@@ -20,6 +20,11 @@ import java.net.URL;
 import java.util.ResourceBundle;
 import java.util.Set;
 
+/**
+ * @author NTOUTOUME MENZOUGHE YANNICK
+ * @version 1.0
+ *
+ */
 public class Converter implements Initializable {
 
     @FXML

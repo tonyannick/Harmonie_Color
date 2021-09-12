@@ -15,11 +15,17 @@ import variables.MyVariables;
 import java.io.IOException;
 import java.util.Optional;
 
+/**
+ * @author NTOUTOUME MENZOUGHE YANNICK
+ * @version 1.0
+ *
+ */
 public class StageUtils {
 
     /**
      * Fonction qui affiche une interface à partir du chemin vers un fichier fxml
      * @param fxml
+     * @throws IOException si l'url est incorrect
      */
     public void loadStage(String fxml) {
         try {

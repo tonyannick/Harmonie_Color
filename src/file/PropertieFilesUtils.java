@@ -6,11 +6,17 @@ import java.nio.charset.StandardCharsets;
 import java.util.Properties;
 import java.util.Set;
 
+/**
+ * @author NTOUTOUME MENZOUGHE YANNICK
+ * @version 1.0
+ *
+ */
 public class PropertieFilesUtils {
 
     /**
      * Fonction qui lit le contenu d'un fichier properties
      * @param nomFichier
+     * @throws IOException si l'url n'est pas valabe
      * @return
      */
     public Properties loadPropertiesFile(String nomFichier){

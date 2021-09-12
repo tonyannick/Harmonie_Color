@@ -1,5 +1,10 @@
 package variables;
 
+/**
+ * @author NTOUTOUME MENZOUGHE YANNICK
+ * @version 1.0
+ *
+ */
 public class MyVariables {
     public static final String viewConverterFXML = "/views/view_converter.fxml";
     public static final int REDSLIDER = 1;
