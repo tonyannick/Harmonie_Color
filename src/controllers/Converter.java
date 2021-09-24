@@ -1,6 +1,5 @@
 package controllers;
 
-
 import file.PropertieFilesUtils;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
